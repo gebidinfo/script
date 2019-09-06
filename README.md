@@ -8,6 +8,12 @@ pkg install nano
 
 pkg install bash
 
+pkg install figlet
+
+pkg install toilet
+
+pip2 install lolcat
+
 pkg install git
 
 git clone https://github.com/gebidinfo/script
